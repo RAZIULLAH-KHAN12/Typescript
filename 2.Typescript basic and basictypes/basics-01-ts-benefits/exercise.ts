@@ -17,7 +17,7 @@ function longestString(str: string) {
         }
         
     }
-}
+    
 
 console.log(longestString('Write a TypeScript function'));
 
@@ -63,4 +63,5 @@ function uniqueCharacter(strs: string) {
     const result = newArr.join("");
     return result;  
 }
+
 console.log(uniqueCharacter("prominentpixel"));
